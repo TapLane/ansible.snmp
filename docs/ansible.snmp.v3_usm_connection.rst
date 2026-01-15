@@ -214,6 +214,7 @@ Parameters
                 <td>
                         <ul style="margin: 0; padding: 0"><b>Choices:</b>
                                     <li><div style="color: blue"><b>DES</b>&nbsp;&larr;</div></li>
+                                    <li>AES</li>
                                     <li>AES128</li>
                                     <li>AES256</li>
                         </ul>
